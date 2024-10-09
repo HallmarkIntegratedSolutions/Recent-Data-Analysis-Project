@@ -25,13 +25,12 @@ This is one of the recent project analysed by Hallmark Solutions
 
 ## Microsoft EXCEL Functions Used
 ---
-''' MICROSOFT EXCEL
-
+```MICROSOFTEXCEL
 =MIN(A1:A3)
 =MAX(A1:A3)
 =AVERAGE(A1:A3)
 =STDEV(A1:A3)
-'''
+```
 
 ## Data Visualization
 ---
