@@ -24,6 +24,7 @@ This is one of the recent project analysed by Hallmark Solutions
 3. GitHub for Documentation and Reporting
 
 ## Microsoft EXCEL Functions Used
+---
 ''' MICROSOFT EXCEL
 
 =MIN(A1:A3)
@@ -32,4 +33,19 @@ This is one of the recent project analysed by Hallmark Solutions
 =STDEV(A1:A3)
 '''
 
+## Data Visualization
+---
+https://photos.app.goo.gl/S8hiN4v41TM1jLvX6
 
+## Data Analysis Results
+---
+- There exist no significant difference in the overall occurrence and prevalence of anurans in the study area (F=0.897, p>0.05)
+- There is a significant difference in the prevalence of anurans in relation to habitat (=10.035, p<0.05)
+- There is no significant difference in the prevalence of infection of anurans in relation to sex
+- There is no significant difference in the prevalence of infection of anurans in relation to parasite specie (=2.708, p>0.05).
+- There exist no significant difference in the overall occurrence and prevalence of anurans in relation to months (F=2.638, p<0.05).
+- There is no significant difference in the prevalence of anurans in relation to organs (F=254.305, p<0.05).
+
+## Conclusion
+---
+This project brings significant contribution to knowledge.
